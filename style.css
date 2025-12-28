@@ -90,3 +90,18 @@ transform:scale(1.0);
 html {
   scroll-behavior: smooth;
 }
+
+@media (max-width: 600px) {
+
+  header {
+        padding: 10px 0;
+  }
+
+  header a {
+        display: block;
+        margin: 8px auto;
+        padding: 10px;
+  }
+
+}
+
