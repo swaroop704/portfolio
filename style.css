@@ -19,7 +19,7 @@ header {
 header a {
       color: #ffffff;
       text-decoration: none;
-      margin: 0 15px;
+      margin: 0 10px;
       font-weight: normal;
       transition: color 0.3s, opacity 0.2s, background-color 0.2s;
       font-family: "Google Sans", sans-serif;
@@ -60,6 +60,11 @@ p {
       margin: 0 auto;
       margin-bottom: 160px;
       margin-top: 40px;
+}
+
+.projects {
+      margin-bottom:160px;
+      margin-top:40px;
 }
 
 .contact {
