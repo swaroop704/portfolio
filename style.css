@@ -74,6 +74,11 @@ p {
 .contactIMG {
       text-align: center;
       margin-top: 40px;
+      cursor:pointer;
+}
+
+.contactIMG:hover {
+      border: 2px solid ghostwhite;
 }
 
 .github {
